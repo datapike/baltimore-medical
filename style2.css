@@ -1,0 +1,72 @@
+/*
+ Theme Name:   Baltimore Medical Theme
+ Theme URI:    http://copyquality.com/mocksites/demotech/
+ Description:  Balitmore Medical Theme
+ Author:       Quality Business Solutions
+ Author URI:   http://copyquality.com
+ Template:     health-center-lite
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         two-columns, responsive-layout, accessibility-ready
+ Text Domain:  baltimore-medical
+*/
+body {
+	padding: 0 !important;
+}
+
+#wrapper {
+	box-shadow: none !important;
+	width: 100% !important;
+	margin: auto !important;
+}
+
+.navbar-container {
+	margin: auto !important;
+}
+
+.sfsiplus_norm_row.sfsi_plus_wDiv {
+	right: 25px;
+}
+
+.widget.sfsi_plus {
+	margin-bottom: 10px;
+}
+
+.hc_footer_widget_area a {
+	color: #b08af9 !important;
+}
+
+.service_widget img{
+	margin: 0 auto !important;
+	margin-bottom: 36px;
+}
+
+.navigation_section, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus, .slide_thumb, .hc_main_service, .hc_home_portfolio_showcase_overlay, .hc_callout_area, .hc_callout_area a, .hc_carousel-prev:hover, .hc_carousel-next:hover, .hc_portfolio_tabs li.active > a, .hc_portfolio_tabs li > a:hover, .hc_portfolio_showcase_overlay, .hc_portfolio_detail_pagi li a:hover, .hc_portfolio_detail_info a, .hc_sevice_icon, .hc_sevice_icon:hover, .hc_btn, #hc_btn, .hc_post_date span.date, a.hc_blog_btn, a.more-link, .hc_blog_pagi a:hover, .hc_blog_pagi a.active, .hc_widget_tags a:hover, .hc_sidebar .tagcloud a:hover, .hc_footer_widget_column  .tagcloud a:hover, .hc_btn_blue, .hc_dropcape_square span, .hc_dropcape_circle span, .hc_short_tabs li.active > a, .hc_short_tabs li > a:hover, .error_404_btn:hover, .hc_footer_widget_column #wp-calendar caption, .hc_sidebar #wp-calendar caption, .hc_sidebar #searchsubmit, a.hc_service_btn, a .hc_service_btn, table th {
+	background-color: #b08af9 !important;
+}
+
+.navbar-nav > li > a {
+	border-right: none !important;
+}
+
+a:hover, .widget li a:hover, .widget li a:focus, .sticky, .hc_logo h1 > a, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .dropdown-menu > .active > a, .hc_service_area i, .hc_service_area h2 > a:hover, .hc_service_area p a, .hc_home_title h1, .hc_home_callnow_title h1, .hc_home_portfolio_caption h3 a:hover, .hc_callout_area a:hover, .hc_testimonials_title, .hc_footer_area p a:hover, .hc_breadcrumb > .active, .hc_team_showcase .caption h3, .hc_team_about2_showcase .caption h3, .hc_portfolio_caption h3 a:hover, .hc_portfolio_detail_info a:hover, .hc_service_section h3 > a:hover, .hc_service_detail_area label > small, .hc_btn:hover, .hc_btn:focus, .hc_contactv1_area label > small, .hc_contactv2_area label > small, .hc_contactv1_address address a, .hc_contactv2_address address a, .hc_post_detail a:hover, a.hc_blog_btn:hover, a.hc_blog_btn:focus, .hc_comment_detail_title, .reply a:hover, .hc_comment_form_section label > small, .hc_sidebar_widget h3 a:hover, .hc_sidebar_calender small, .hc_widget_link a:hover, .hc_sidebar ul a:hover, .hc_widget_link a.active, .hc_sidebar ul a.active, .hc_left_sidebar_widget h3 a:hover, .hc_tooltip a, table th a, .error_404 h4, .error_404_btn, table tfoot a, .comment-reply-title a, .logged-in-as a, .hc_post-date-type .day, .hc_testimonials_area_content:before, .hc_logo h1, .hc_service_area a:hover, .hc_service_area a:focus, .hc_blog_post_content a, .hc_blog_post_content a:focus, .section-title, .sidebar-project  div[class*="wbr_feature_page_widget"] h2 a:hover, .hc_post_area h4 a:hover, .sidebar-news  div[class*="wbr_feature_page_widget"] h2 a:hover, .sidebar-news  div[class*="wbr_feature_page_widget"] h2 a :focus, div[class*="wbr_feature_page_widget"] h2 a:hover, div[class*="wbr_feature_page_widget"] h2 a:focus, .hc_footer_widget_area div[class*=wbr_feature_page_widget] h2 a:hover, .hc_footer_widget_area div[class*=wbr_feature_page_widget] h2 a:focus, .hc_footer_widget_area .hc_home_portfolio_caption:hover, .hc_footer_widget_area .hc_home_portfolio_caption:focus, aside[class*="widget_wbr_feature_page_widget"] a:hover, aside[class*="widget_wbr_feature_page_widget"] a:focus, a .hc_service_btn:hover, a .hc_service_btn:focus, .hc_post_title_wrapper h2 a:hover, .site-description, #hc_btn:hover,
+input[type="submit"]:hover, input[type="submit"]:focus, input[type="reset"]:hover, input[type="reset"]:focus, button:hover, button:focus, reset:hover, reset:focus {
+	color: #b08af9 !important;
+}
+
+button, input[type="submit"], input[type="reset"] {
+	background-color: #b08af9 !important;
+}
+
+button, input[type="submit"], input[type="submit"]:hover, input[type="submit"]:focus, input[type="reset"]:hover, input[type="reset"]:focus {
+	border-color: #b08af9 !important;
+}
+
+.hc_blockquote_section blockquote, .hc_blog_post_content blockquote, blockquote {
+	border-left-color: #b08af9 !important;
+}
+
+input[type="submit"]:hover, input[type="submit"]:focus, input[type="reset"]:hover, input[type="reset"]:focus, button:hover, button:focus, reset:hover, reset:focus {
+	background-color: #fff !important;
+}
