@@ -177,7 +177,8 @@ h1.entry-title {
  	text-decoration: underline;
 }
 
-.blog {
+.blog article,
+.blog .widget-area {
 	margin-top: 20px;
 }
 
